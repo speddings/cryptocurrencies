@@ -2,7 +2,7 @@
 **Use unsupervised machine learning to analyze cryptocurrencies.**
 
 # Overview
-The purpose of this analyisis is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for new investments for the Advisory Services Team at Accountability Accounting.  The output is unknown, and therefore the best method of anaylisis is `unsupervised machine learning`, with clustering algorithms (KMean) and visualized with 2D and 3D scatter plots.
+The purpose of this analyisis is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for new investments for the Advisory Services Team at Accountability Accounting.  The output is unknown, therefore the best method of anaylsis is *unsupervised machine learning* with clustering algorithms (KMean) and visualized with 2D and 3D scatter plots.
 
 # Resources
 Data Source:
@@ -25,7 +25,7 @@ Python Libraries:
 
 # Crypto Currencies Results
 
-these are the steps of the analysis
+These are the steps of the analysis
 
 ## 1. Verify and Process the Data
 The first step in the process is to verify and prepare the data including:
